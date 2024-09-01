@@ -28,29 +28,33 @@ This is a full-stack application built using Spring Boot and React that allows u
 2. Navigate to the backend directory:
 
 ```bash
-cd backend
-Build and run the Spring Boot application:
+   cd backend
+
+3. Build and run the Spring Boot application:
 
 ```bash
-./mvnw spring-boot:run
+   ./mvnw spring-boot:run
+
 The backend will run on http://localhost:8080.
 
-3. Frontend (React)
+4. Frontend (React)
 Navigate to the frontend directory:
 
 ```bash
-cd frontend
-Install the dependencies:
+   cd frontend
+5. Install the dependencies:
 
 ```bash
 npm install
-Start the React application:
+
+6. Start the React application:
 
 ```bash
-npm start
+   npm start
+
 The frontend will run on http://localhost:3000.
 
-4. Usage
+### Usage
    1. Open the React application in your browser: http://localhost:3000.
    2. Enter the text you want to encrypt or decrypt.
    3. Select the algorithm and provide the required key.
