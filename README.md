@@ -27,31 +27,26 @@ This is a full-stack application built using Spring Boot and React that allows u
 
 2. Navigate to the backend directory:
 
-bash
-Copy code
+```bash
 cd backend
 Build and run the Spring Boot application:
 
-bash
-Copy code
+```bash
 ./mvnw spring-boot:run
 The backend will run on http://localhost:8080.
 
 3. Frontend (React)
 Navigate to the frontend directory:
 
-bash
-Copy code
+```bash
 cd frontend
 Install the dependencies:
 
-bash
-Copy code
+```bash
 npm install
 Start the React application:
 
-bash
-Copy code
+```bash
 npm start
 The frontend will run on http://localhost:3000.
 
