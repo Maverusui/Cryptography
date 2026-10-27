@@ -54,7 +54,7 @@ npm install
 
 The frontend will run on http://localhost:3000.
 
-### Usage
+# Usage
    1. Open the React application in your browser: http://localhost:3000.
    2. Enter the text you want to encrypt or decrypt.
    3. Select the algorithm and provide the required key.
