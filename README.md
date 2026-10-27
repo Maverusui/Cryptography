@@ -1,4 +1,3 @@
-# Cryptography
 # Cryptography Tool
 
 This is a full-stack application built using Spring Boot and React that allows users to encrypt and decrypt text using different cryptographic algorithms. The application currently supports the following algorithms:
